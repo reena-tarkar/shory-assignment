@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shory-assignment/static/css/main.22523687.chunk.css",
+    "main.js": "/shory-assignment/static/js/main.b554c379.chunk.js",
+    "main.js.map": "/shory-assignment/static/js/main.b554c379.chunk.js.map",
+    "runtime-main.js": "/shory-assignment/static/js/runtime-main.64833431.js",
+    "runtime-main.js.map": "/shory-assignment/static/js/runtime-main.64833431.js.map",
+    "static/js/2.726954a2.chunk.js": "/shory-assignment/static/js/2.726954a2.chunk.js",
+    "static/js/2.726954a2.chunk.js.map": "/shory-assignment/static/js/2.726954a2.chunk.js.map",
+    "static/js/3.0401e455.chunk.js": "/shory-assignment/static/js/3.0401e455.chunk.js",
+    "static/js/3.0401e455.chunk.js.map": "/shory-assignment/static/js/3.0401e455.chunk.js.map",
+    "index.html": "/shory-assignment/index.html",
+    "static/css/main.22523687.chunk.css.map": "/shory-assignment/static/css/main.22523687.chunk.css.map",
+    "static/js/2.726954a2.chunk.js.LICENSE.txt": "/shory-assignment/static/js/2.726954a2.chunk.js.LICENSE.txt",
+    "static/media/wfh.dd6daf5f.gif": "/shory-assignment/static/media/wfh.dd6daf5f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64833431.js",
+    "static/js/2.726954a2.chunk.js",
+    "static/css/main.22523687.chunk.css",
+    "static/js/main.b554c379.chunk.js"
+  ]
+}
